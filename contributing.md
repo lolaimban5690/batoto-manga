@@ -9,7 +9,7 @@ The **🥭 Batoto Manga** is the most comprehensive manga reading and downloadin
 
 <div align="center">
 
-[![Download Batoto Manga](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/batoto-manga)
+[![Download Batoto Manga](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/batoto-manga)
 
 </div>
 
@@ -107,7 +107,7 @@ You need a better way to read manga. Faster. Cleaner. Offline.
 6. **🔍 Search for Manga** — enter series name
 7. **📖 Start Reading** — click on any chapter
 
-[![Download Batoto Manga](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/batoto-manga)
+[![Download Batoto Manga](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/batoto-manga)
 
 ### Reading Manga
 
@@ -212,7 +212,7 @@ Read manga the way it should be. **Batoto Manga** gives you fast reading, offlin
 
 <div align="center">
 
-[![Download Batoto Manga](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/batoto-manga)
+[![Download Batoto Manga](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/batoto-manga)
 
 **Version 4.6.1** — Read and download manga. Free forever.
 
